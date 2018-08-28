@@ -1,4 +1,4 @@
-class p2 {
+class v2 {
 public static void main (String args[]){
 for(int vrow=1;vrow<=4;vrow++) {
 	for(int vcol=vrow;vcol<=vrow+2;vcol++) {
